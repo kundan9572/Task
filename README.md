@@ -21,3 +21,4 @@ like id , name and city .In detail.service.ts file I am fetching data using Obse
 ## Promise Component : 
 ### In this component, I am using Promise and checking whether a Car is Availabe or not .
 
+
